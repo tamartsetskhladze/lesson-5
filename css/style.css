@@ -1,0 +1,158 @@
+
+
+.navigation {
+	display: inline-block ;
+	vertical-align: middle;
+	margin-top: 22px;
+
+}
+
+.nav-li {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.color { 
+	color: #FA6980; }
+.color1 {
+	color: #black;
+}
+
+.color2 { 
+	color: grey; }
+
+.section1 {
+	width: 1290px;	
+
+}
+.head2 {
+	margin-top: 55px;
+	margin-left: 120px;
+	margin-bottom: 37px;
+	font-style: bold;
+	font-size: 20px;
+}
+
+.first-block { 
+	display: inline-block; 
+	position: relative;
+	margin-left: 120px;
+	width: 360px;
+	height: 350px;
+		}
+.text-image {
+	position: absolute;
+	color: white;
+	top: 31px;
+				}
+.second-block { 
+	display: inline-block; 
+	position: relative;
+	margin-left: 40px;
+	width: 360px;
+	height: 350px;
+		}
+.third-block {
+	display: inline-block;
+	position: relative;
+	margin-left: 40px;
+	width: 360px;
+	height: 350px;
+	}
+
+.time {
+	margin-top: 24px;
+}
+.paragraph {
+	width: 255px;
+	margin-top: 68px;
+	color: #A6ADB4;
+}
+
+.left-block {
+	display: inline-block;
+	width: 760px;
+}			
+
+.right-block {
+	display: inline-block;
+	width: 360px;
+	margin-left: 40px;
+
+}
+.section2 {
+	margin-left: 140px;
+	margin-top: 58px;
+}
+
+.head-2 {
+	font-style: bold;
+	font-size: 20px;
+	margin-bottom: 56px;
+
+}
+
+.animal1 {
+	margin-bottom: 104px;
+}
+
+.wood {
+	margin-bottom: 66px;
+}
+
+.text-image2 {
+	position: absolute;
+	color: white;
+	left: 308px;		 
+
+}
+
+.foot1 {
+	display: inline-block;
+	color: #CBD0D3;
+	margin-left: 142px;
+	font-style: bold;
+	margin-top: 100px;
+	vertical-align: text-bottom;
+
+}
+
+.foot2 { 
+	display: inline-block; 
+	color: #CBD0D3;
+	margin-left: 86px;
+	vertical-align: middle;}
+
+.foot3 { 
+	display: inline-block; 
+	color: #CBD0D3;
+	margin-left: 71px;
+	vertical-align: middle;}
+
+.foot4 { 
+	display: inline-block; 
+	color: #CBD0D3;
+	margin-left: 82px;
+	vertical-align: middle;}
+
+.foot5 { 
+	display: inline-block; 
+	color: #CBD0D3;
+	margin-left: 105px;
+	vertical-align: middle;}
+
+.foot6 {
+	display: inline-block;
+	margin-left: 184px;
+}
+
+.block {
+	width: 1345	px; 
+	height: 220px;
+	background: #A6ADB4;
+	margin-top: 34px;
+
+}
+
+
+
